@@ -2,10 +2,10 @@
 Travail pratique complété dans le cadre du cours d'infographie.
 
 Ce travail:
-* Construit le squelette 
-* Animation de course
-* Deux poses (blender)
-* Maillage
+* Construit les membres du squelette. 
+* Implémente l'animation de course.
+* Implémente deux poses au choix (blender).
+* Implémente le maillage.
 
 ## Rendu
 ![squelette](https://user-images.githubusercontent.com/22164525/158265889-d2e9860a-27eb-4c1a-9805-61f53d9fd3d7.PNG)
