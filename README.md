@@ -21,7 +21,7 @@ Ce travail:
 :--:
 *Pose 1*
 
-<img width="593" alt="Capture5" src="https://user-images.githubusercontent.com/22164525/158266071-8760e882-43b8-49e1-ba77-05742cb07b02.PNG">
+![pose2](https://user-images.githubusercontent.com/22164525/158266071-8760e882-43b8-49e1-ba77-05742cb07b02.PNG)
 :--:
 *Pose 2*
 
