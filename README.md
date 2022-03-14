@@ -1,4 +1,4 @@
-# Transformations
+# Travail pratique - transformations
 Travail pratique complété dans le cadre du cours d'infographie.
 
 Ce travail:
