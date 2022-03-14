@@ -3,7 +3,7 @@ Travail pratique complété dans le cadre du cours d'infographie.
 
 Ce travail:
 * Construit les membres du squelette. 
-* Implémente l'animation de course.
+* Implémente une animation de course.
 * Implémente deux poses au choix (blender).
 * Implémente le maillage.
 
