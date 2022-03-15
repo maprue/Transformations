@@ -14,7 +14,7 @@ This project :
 
 ![maillage](https://user-images.githubusercontent.com/22164525/158265910-743157fc-61c0-46fc-b52a-658b25b5c283.PNG)
 :--:
-*Skinninge*
+*Skinning*
 
 ![pose1](https://user-images.githubusercontent.com/22164525/158265930-6ac4916b-f80f-4267-b1e1-e02d6383f904.PNG)
 :--:
