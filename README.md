@@ -1,4 +1,4 @@
-# Practical work - Transformations
+# Practical Work - Transformations
 Practical work completed as part of computer graphics course.
 
 This project :
